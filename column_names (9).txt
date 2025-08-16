@@ -1,0 +1,12 @@
+sn
+total_feedback_given
+total_configured
+question
+weightage_1
+weightage_2
+weightage_3
+weightage_4
+weightage_5
+average_percent
+course_name
+basic_course
